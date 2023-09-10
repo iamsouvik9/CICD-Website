@@ -7,3 +7,5 @@ sudo systemctl enable apache2
 sudo rm -rf /var/www/html
 sudo rm -rf /var/www
 sudo git clone https://github.com/iamsouvik9/CICD-Website.git /var/www/html
+
+
