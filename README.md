@@ -88,6 +88,7 @@ Follow the steps ahead to get your static website deployed on a EC2 instance
 
 
 
-    <img width="960" alt="13" src="https://github.com/iamsouvik9/CICD-Website/assets/79768737/eb10cdec-e802-4e98-8e4b-a35754354b15">
+
+<img width="960" alt="14" src="https://github.com/iamsouvik9/CICD-Website/assets/79768737/b6ff43af-54b0-4939-8b71-de6b71c71ddf">
 
 ------------------------------------------------------------------------------------------------------------------------------
