@@ -1,5 +1,3 @@
-
-
 sudo apt install -y git
 sudo apt install -y apache2
 sudo systemctl start apache2
